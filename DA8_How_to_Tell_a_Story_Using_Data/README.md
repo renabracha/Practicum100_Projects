@@ -6,4 +6,4 @@ Perform some market research and prepare a presentation of the findings with ins
 
 **Theme:** Story telling using data
 
-<img src="The_Bot_Eatery_Project_Current_Market_Conditions_Overview.jpg" width="460em" />
+<img src="files/The_Bot_Eatery_Project_Current_Market_Conditions_Overview.jpg" width="460em" />
