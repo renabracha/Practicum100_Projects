@@ -1,4 +1,4 @@
-# Project Description ver2
+# Project Description
 
 A bank's Loan Division wants to assess whether a customer’s marital status and number of children have an impact on their chance of defaulting on a loan, based on the historical data of customers’ credit worthiness.
 

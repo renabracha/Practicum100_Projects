@@ -1,4 +1,4 @@
-# Practicum100 by Yandex Projects vers2
+# Practicum100 by Yandex Projects
 
 This repository showcases the Data Analysis and Data Science projects I tackled and had them reviewed by the course instructors. 
 
